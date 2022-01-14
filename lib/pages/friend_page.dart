@@ -10,6 +10,6 @@ class FriendPage extends StatefulWidget {
 class _FriendPageState extends State<FriendPage> {
   @override
   Widget build(BuildContext context) {
-    return Text("friend page");
+    return Text("friend page gg");
   }
 }
